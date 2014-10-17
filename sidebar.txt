@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ybi:home|Door43 (ybi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ybi|d43-ybi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ybi/archive/master.zip|d43-ybi.zip]]
+
+**Recent Changes**
+{{changes>ns = ybi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ybi|Ethnologue data]]
+
